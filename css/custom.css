@@ -1,0 +1,91 @@
+html,body{
+	height:85%;
+	font-family: "Arial Narrow", sans-serif
+}
+#section-2{
+	background:url('../images/coding.jpg') center bottom no-repeat;
+	background-size:cover;
+	width:100%;
+	padding-top:15%;
+	padding-bottom:7%;
+}
+#section-2 h1{
+	padding-top:50px;
+}
+.btn-outline-white {
+  color: #fff;
+  background-color: transparent;
+  background-image: none;
+  border-color: #fff;
+}
+
+.btn-outline-white:hover {
+  color: red;
+  background-color:#fff;
+  border-color: red;
+}
+.btn1122{
+	margin-top:2rem;
+	border-radius:0rem;
+}
+#section-3{
+	padding-top:3rem;
+	padding-bottom:3rem;
+}
+.pstyle{
+	padding-left: 0px;
+}
+.red{
+	color:red;
+}
+#p1{
+	padding-top:3rem;
+	padding-bottom:2rem;
+}
+#section-4{
+	background-color:#F8F8F8;
+	padding: 3rem 0;
+}
+#section-5{
+	padding: 3rem 0;
+}
+#section-6{
+	background-color:#F8F8F8;
+	padding: 3rem 0;
+}
+.link1{
+	color:red;
+}
+.link1:hover{
+	text-decoration:none;
+	color:orange;
+}
+#section-7{
+	padding-top:5rem;
+	background-color:#dc3545;
+	padding-bottom:5rem;
+}
+.style-card{
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-bottom-width: 0px;
+    border-top-width: 0px;
+
+}
+.card img{
+	width:30%;
+	height:30%;
+}
+.card-body-style{
+	padding-left: 0px;
+	padding-right: 0px;
+} 
+#pop h4{
+	color:red;
+}
+.w-15 {
+  width: 15% !important;
+}
+.headpad{
+	padding-top:1rem;
+}
